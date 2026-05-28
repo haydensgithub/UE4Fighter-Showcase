@@ -1,5 +1,5 @@
 # UE4Fighter-Showcase
-My first UE4 project, a singleplayer first-person fighter. Special focus was placed on gamefeel and the user experience. 
+My first UE4 project, a single-player first-person fighter. Special focus was placed on gamefeel and the user experience. 
 
 ## Highlights
 - Fully-formed player moveset, including complex movement options and 2 unique weapons
@@ -10,12 +10,12 @@ My first UE4 project, a singleplayer first-person fighter. Special focus was pla
 
 ## Technical Focus
 - Unreal Engine 4.25
-- C++ syntax and design principles
+- C++ gameplay programming and class design
 - 3D modeling and animation
 - 3D scene optimization 
 - Vector and matrix math
 - GPU foliage instancing
-- Satisfying audio-visual feedback 
+- Combat feedback, audio cues, and visual polish
 
 ## Media
 <img width="800" height="450" alt="BagGif" src="https://github.com/user-attachments/assets/cc8bc075-bf52-4e27-8f05-8d4fcfc8d2bd" />
