@@ -12,6 +12,7 @@ My first UE4 project, a singleplayer first-person fighter. Special focus was pla
 - Unreal Engine 4.25
 - C++ syntax and design principles
 - 3D modeling and animation
+- 3D scene optimization 
 - Vector and matrix math
 - GPU foliage instancing
 - Satisfying audio-visual feedback 
