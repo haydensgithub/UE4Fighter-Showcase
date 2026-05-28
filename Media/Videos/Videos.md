@@ -1,8 +1,8 @@
 ### Moveset Showcase
-https://www.youtube.com/watch?v=5bWb6BtbpmQ
+[![Moveset Showcase](/Media/Thumbnails/moveset.png))](https://www.youtube.com/watch?v=5bWb6BtbpmQ)
 
 ### Combat Showcase
-https://www.youtube.com/watch?v=kik588d3Ow4
+[![Enemy Fight](/Media/Thumbnails/enemy-fight.png)](https://www.youtube.com/watch?v=kik588d3Ow4)
 
 ### Boss Fight Showcase
-https://www.youtube.com/watch?v=XrCTG8oHY2c
+[![Boss Fight](/Media/Thumbnails/boss-fight.png)](https://www.youtube.com/watch?v=XrCTG8oHY2c)
