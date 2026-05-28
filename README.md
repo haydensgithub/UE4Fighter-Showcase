@@ -13,6 +13,7 @@ My first UE4 project, a singleplayer first-person fighter. Special focus was pla
 - C++ syntax and design principles
 - 3D modeling and animation
 - Vector and matrix math
+- GPU foliage instancing
 - Satisfying audio-visual feedback 
 
 ## Media
