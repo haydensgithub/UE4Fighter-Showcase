@@ -1,5 +1,6 @@
 # UE4Fighter-Showcase
 My first UE4 project, a single-player first-person fighter. Special focus was placed on gamefeel and the user experience. 
+Every line of code, animation, sound, and model were all made by me.
 
 ## Highlights
 - Fully-formed player moveset, including complex movement options and 2 unique weapons
