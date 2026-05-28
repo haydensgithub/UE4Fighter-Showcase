@@ -32,4 +32,4 @@ Some cute characters living in the game
 
 
 ## Playable Build
-The final version of the game may be found here: [https://ravagedev.itch.io/eternitys-gate](url)
+The final version of the game may be found here: https://ravagedev.itch.io/eternitys-gate
