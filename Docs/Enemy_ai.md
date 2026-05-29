@@ -2,7 +2,7 @@
 
 I wanted the enemies to be more than passive actors in the combat, but rather to draw more interesting gameplay out of the player by force.
 To this end, the enemies are aggresive and highly mobile, complimenting the player's advanced moveset. 
-The two standard enemies straight up fly.
+The two standard enemies make this clear by fighting from the sky.
 
 ## Core Architecture
 
