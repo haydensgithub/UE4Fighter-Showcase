@@ -1,5 +1,3 @@
-# Enemy AI
-
 ## Design Goal
 
 I wanted the enemies to be more than passive actors in the combat, but rather to draw more interesting gameplay out of the player by force.
