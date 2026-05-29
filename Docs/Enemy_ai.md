@@ -1,3 +1,5 @@
+# Enemy AI
+
 ## Design Goal
 
 I wanted the enemies to be more than passive actors in the combat. Their purpose was to force more interesting gameplay out of the player by pressuring movement, spacing, and weapon choice.
